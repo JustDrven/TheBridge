@@ -1,0 +1,7 @@
+name: TheBridge
+version: '${version}'
+main: cz.drven.thebridge.Main
+authors: [ Drven ]
+commands:
+  start:
+  status:
