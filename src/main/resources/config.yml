@@ -1,0 +1,4 @@
+game:
+  settings:
+    map: "Forest"
+    max: 2
